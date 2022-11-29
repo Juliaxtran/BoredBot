@@ -6,6 +6,8 @@ btn.addEventListener('click', () => {
   .then(response => response.json())
   .then(data => {
       document.getElementById("activity-name").textContent = data.activity
+      document.getElementById('title').textContent = '🤖 Bored Bot Says:'
+      document.body.classList.toggle("fun")
   })
 });
 
