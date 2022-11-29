@@ -27,7 +27,7 @@ body {
   border-radius: 5px;
 }
 
-.btn {
+#btn {
   background: rgb(63, 94, 251);
   background: radial-gradient(
     circle,
