@@ -1,5 +1,7 @@
 const btn = document.getElementById('btn');
 
+// Api call
+
 btn.addEventListener('click', () => {
   console.log('clicked');
   fetch("https://apis.scrimba.com/bored/api/activity")
