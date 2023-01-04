@@ -5,3 +5,4 @@ Bored Bot will give you suggestion of something new to do everytime you press a 
 If you are bored and need some suggestion use bored bot to help you decide! 
 
 ![](https://github.com/Juliaxtran/BoredBot/blob/main/bored-bot.gif?raw=true)
+[Bored Bot](https://app.netlify.com/sites/helpful-rabanadas-53ec49/deploys)
