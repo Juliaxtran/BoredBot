@@ -27,13 +27,7 @@ body {
   border-radius: 5px;
 }
 
-@media screen and (max-width: 600px) {
-  .container {
-    width: 65%;
-    height: 65%;
 
-  }
-}
 
 
 
